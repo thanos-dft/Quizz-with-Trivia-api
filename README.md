@@ -1,1 +1,1 @@
-A quiz project using trivia api
+A quiz project using trivia api.
